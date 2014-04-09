@@ -2012,6 +2012,23 @@
         "Open Source",
         "italian"
       ]
+    },
+    {
+      "name": "TweetSplitter",
+      "thumb": "TweetSplitter/thumb.png",
+      "desc": "Allow you to write long tweets",
+      "url": "http://www.tweetsplitter.com",
+      "info": "http://www.tweetsplitter.com",
+      "submitter": "jujox",
+      "submissionDate": "2014-04-09",
+      "tags": [
+        "Production",
+        "Social",
+        "Productivity",
+        "Twitter",
+        "AngularJS",
+        "Bootstrap"
+      ]
     }
 
   ]
